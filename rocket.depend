@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1567537194 source:c:\users\asus\desktop\new folder\rocket\main.cpp
+	<iostream>
+	"user.h"
+
+1567536475 c:\users\asus\desktop\new folder\rocket\include\user.h
+
+1567537068 source:c:\users\asus\desktop\new folder\rocket\src\user.cpp
+	"user.h"
+	"string.h"
+
